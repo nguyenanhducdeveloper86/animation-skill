@@ -1,0 +1,23 @@
+{
+  "name": "animation-skill",
+  "version": "1.0.0",
+  "description": "Production web animation skill pack for AI coding agents — GSAP, R3F/Three.js, Lenis, motion direction, accessibility, and performance",
+  "skills": [
+    {
+      "name": "web-animation",
+      "path": "skills/web-animation/SKILL.md"
+    },
+    {
+      "name": "gsap-scroll",
+      "path": "skills/gsap-scroll/SKILL.md"
+    },
+    {
+      "name": "spatial-webgl",
+      "path": "skills/spatial-webgl/SKILL.md"
+    },
+    {
+      "name": "motion-taste",
+      "path": "skills/motion-taste/SKILL.md"
+    }
+  ]
+}

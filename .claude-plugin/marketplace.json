@@ -1,0 +1,9 @@
+{
+  "name": "animation-skill",
+  "title": "Animation Skill",
+  "description": "Production web animation skill pack — GSAP, R3F/Three.js, Lenis, motion direction, accessibility, and performance",
+  "author": "nguyenanhducdeveloper86",
+  "repository": "https://github.com/nguyenanhducdeveloper86/animation-skill",
+  "license": "MIT",
+  "tags": ["animation", "gsap", "three.js", "r3f", "lenis", "motion", "webgl", "scroll", "performance"]
+}
